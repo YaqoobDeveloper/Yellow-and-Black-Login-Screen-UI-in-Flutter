@@ -12,6 +12,13 @@ https://yaqoobdeveloper.github.io/Yellow-and-Black-Login-Screen-UI-in-Flutter/
 💻 **GitHub Repository:**  
 https://github.com/YaqoobDeveloper/Yellow-and-Black-Login-Screen-UI-in-Flutter
 
+▶️ **Video Demo:**  
+https://youtube.com/shorts/iijF07jykX4
+
+## 📸 Preview
+
+<img width="859" height="900" alt="Image" src="https://github.com/user-attachments/assets/d9910be6-779a-4c69-8b7d-5d0326a9cfb3" />
+
 ## ✨ Features
 
 - 💛 Yellow panel with a smooth curved bottom edge
